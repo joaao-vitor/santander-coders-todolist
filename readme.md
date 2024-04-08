@@ -4,11 +4,10 @@ Aplicação web simples para gerenciamento de tarefas, permitindo adicionar, edi
 ## Instalação
 Clone este repositório e abra o interface.html em seu navegador.
 
-bash
-Copy code
+```bash
 git clone https://github.com/joaao-vitor/santander-coders-todolist.git
 cd santander-coders-todolist
-
+```
 ## Uso
 - Adicionar Tarefa: Digite a tarefa no campo de texto e clique no ícone de avião de papel.
 - Editar/Excluir Tarefa: Use os ícones de lápis e lixeira respectivamente.
