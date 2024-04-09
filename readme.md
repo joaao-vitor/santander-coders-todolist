@@ -1,6 +1,12 @@
 # Lista de Tarefas - Santander Coders
 Aplicação web simples para gerenciamento de tarefas, permitindo adicionar, editar, excluir e marcar tarefas como concluídas.
 
+## Equipe
+Vinicius Calafange
+Antonio Junior
+João Marcos
+João Vitor
+
 ## Instalação
 Clone este repositório e abra o interface.html em seu navegador.
 
